@@ -1,0 +1,9 @@
+name: Gravestones
+description: Spawn a gravestone with your stuff when you die
+
+main: Gravestones\Main
+version: 0.0.1
+api: 3.0.0-ALPHA12
+
+author: Potatoe
+website: https://github.com/PotatoeTrainYT/Gravestones
